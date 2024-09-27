@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://prelogel.github.io/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/app/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/assets/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/css/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/data/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/includes/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/item/sitemap.prelogel.gz
+Sitemap: https://prelogel.github.io/src/sitemap.prelogel.gz
